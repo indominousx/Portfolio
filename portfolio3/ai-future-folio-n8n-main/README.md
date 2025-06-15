@@ -1,4 +1,5 @@
-Follow these steps:
+Follow these steps:                    
+
 Step 1: Clone the repository in any of your desired folder.            
 
 Step 2: Open the Folder in your code editor.               
